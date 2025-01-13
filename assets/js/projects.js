@@ -37,4 +37,4 @@ setupToggle('toggleGeospatial', 'geospatial');
 setupToggle('toggleMPKasur', 'MPKasur');
 setupToggle('toggleResearch', 'Research');
 setupToggle('togglePresentations', 'presentation');
-setupToggle('togglePython', 'python');
+setupToggle('togglePython', 'Python');
