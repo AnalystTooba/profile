@@ -36,5 +36,4 @@ function setupToggle(buttonId, sectionId) {
 setupToggle('toggleGeospatial', 'geospatial');
 setupToggle('toggleMPKasur', 'MPKasur');
 setupToggle('toggleResearch', 'Research');
-setupToggle('togglePresentations', 'presentation');
 setupToggle('togglePython', 'Python');
